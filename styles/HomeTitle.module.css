@@ -1,0 +1,18 @@
+.backgroundImageSet{
+    background-image: url("/HomePAge.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: top;
+margin: 0px;
+/* height: 50000%; */
+
+}
+.mainHeadingSet{
+    /* margin: auto ; */
+   margin-top: 10%;
+   margin-left: 3%;
+    width: 50%;
+    color: silver;
+    text-align: center;
+
+}
